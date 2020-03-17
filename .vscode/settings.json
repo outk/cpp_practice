@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "random": "cpp",
+        "cstdlib": "cpp",
+        "cmath": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "algorithm": "cpp"
+    }
+}
