@@ -18,6 +18,20 @@ int main() {
     cout << "*&aPtr = " << *&aPtr << endl;
     cout << endl;
     cout << "&aPtr = " << &aPtr << endl;
+    cout << endl;
+
+
+    int x=1;
+
+    int *ptr = &x;
+
+    cout << "*ptr = " << *ptr << endl;
+    cout << "ptr = " << ptr << endl;
+
+    int * const cPtr = &x;
+
+    cout << "*cPtr = " << *cPtr << endl;
+    cout << "cPtr = " << cPtr << endl;
 
     return 0;
 }
